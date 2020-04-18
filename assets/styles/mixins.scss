@@ -1,0 +1,18 @@
+$baseFontSize: 100;
+$baseWidth: 1080;
+
+@function px($px) {
+	@return ($px/$baseFontSize)*1rem;
+}
+
+@function px1080($px) {
+  @return ($px/$baseFontSize)*1rem;
+}
+
+@function px720($px){ 
+	@return ($px*$baseWidth/720/$baseFontSize)*1rem;
+}
+
+@function px640($px){ 
+	@return ($px*$baseWidth/640/$baseFontSize)*1rem;
+}
