@@ -22,3 +22,13 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+> 图片展示
+
+![](https://cdn.u1.huluxia.com/g3/M01/41/26/wKgBOV6azoiADGu1AAmcwiagPD4847.png)
+
+![](https://cdn.u1.huluxia.com/g3/M01/41/27/wKgBOV6azrOAYHOkAAOZAZoOPxY946.png)
+
+![](https://cdn.u1.huluxia.com/g3/M01/41/27/wKgBOV6aztCAC11iAAorooQOCmE544.png)
+
+![](https://cdn.u1.huluxia.com/g3/M03/41/28/wKgBOV6azuCAYabJAADodwgLdew231.png)
