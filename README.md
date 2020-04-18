@@ -1,6 +1,7 @@
 # hoso-nuxt
 
 > 货色HOSO — 只做原创品牌
+
 > 由nuxt构建的服务端渲染
 
 ## Build Setup
