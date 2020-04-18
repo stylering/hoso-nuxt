@@ -25,7 +25,7 @@ $ npm run generate
 
 ## 图片展示
 #### 首页
-<img src=“https://cdn.u1.huluxia.com/g3/M01/41/26/wKgBOV6azoiADGu1AAmcwiagPD4847.png” width="200" alt="首页" />
+![](https://cdn.u1.huluxia.com/g3/M01/41/26/wKgBOV6azoiADGu1AAmcwiagPD4847.png”)
 
 #### 品牌页
 ![](https://cdn.u1.huluxia.com/g3/M01/41/27/wKgBOV6azrOAYHOkAAOZAZoOPxY946.png)
