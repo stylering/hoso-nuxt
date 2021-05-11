@@ -13,7 +13,7 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nuxt": "^2.0.0",
     "vue-infinite-scroll": "^2.0.2",
     "vue-jsonp": "^0.1.8",
